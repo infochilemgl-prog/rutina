@@ -184,6 +184,6 @@ actualizada en `clientes/CLAUDE.md`.
 |---|---|---|
 | `00-sistema-nexvore.md` | Este mapa | ✅ |
 | `01-prospeccion.md` + `prospectos.csv` | Cliente ideal, dónde buscar, mensajes, seguimientos, planilla | ✅ |
-| `02-cierre.md` | Guion completo, objeciones, calculadora ROI | pendiente |
+| `02-cierre.md` + `calculadora-roi.html` | Guion completo, objeciones, calculadora ROI | ✅ |
 | `03-onboarding.md` | Formulario de arranque para el cliente | pendiente |
 | `04-entrega-builder.md` | Brief + SOP + checklist del builder | pendiente (se escribe durante la entrega de Nicolás) |

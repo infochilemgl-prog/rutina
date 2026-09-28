@@ -33,10 +33,16 @@ Se contacta **solo** si cumple las 4 primeras:
 | + | Bonus: vende en Chile y hace envíos | "Envíos a todo Chile", "despachos", comuna en bio |
 | + | Bonus: número de WhatsApp en la bio | Canal extra de contacto |
 
-**Rubros prioritarios** (ticket repetible, se prestan a packs):
-ropa y streetwear, zapatillas, reventa de marcas, accesorios, joyería,
-cosmética y skincare, perfumes (decants), suplementos, mascotas, decoración,
-velas y aromas, repostería con envío.
+**Nichos foco (prioridad 1 — buscar aquí primero):**
+
+| Nicho | Cómo se ve | Por qué encaja | Ejemplos de referencia |
+|---|---|---|---|
+| **Tiendas masculinas de reventa de marcas premium** (Emporio Armani, EA7, Hugo Boss, Calvin Klein, Lacoste, Jordan, Moschino) | Fotos de prendas con etiqueta de marca, "originales", "stock limitado", precios por DM | Público que ya compra online, ticket alto, se presta a packs (3 poleras, conjunto completo) | @lider_en_marcas_2, @tincho.exclusiveog |
+| **Botas y calzado femenino** | Reels/TikToks mostrando el calce, "pedidos por DM", tallas en el video | Venden solo con video (Reels/TikTok). En la web el tallaje, las medidas y los packs se ordenan solos | *(agregar 2–3 cuentas de referencia)* |
+
+**Otros rubros válidos** (ticket repetible, se prestan a packs):
+streetwear, zapatillas, accesorios, joyería, cosmética y skincare, perfumes
+(decants), suplementos, mascotas, decoración.
 
 **Descartar:** servicios (peluquería, uñas), marcas grandes con web propia
 funcionando, cuentas de memes/contenido sin productos, cuentas inactivas.
@@ -50,6 +56,11 @@ funcionando, cuentas de memes/contenido sin productos, cuentas inactivas.
   `#emprendechile` `#hechoenchile` `#ropamujerchile` `#streetwearchile`
   `#zapatillaschile` `#cosmeticachile` `#decantschile` `#pymeschile`
   + ciudad: `#emprendimientovina` `#emprendimientosantiago` `#emprendimientoconcepcion`.
+- **Nicho marcas premium:** `#emporioarmanichile` `#ea7chile` `#hugobosschile`
+  `#calvinkleinchile` `#ropademarcachile` `#ropaoriginalchile` `#outfithombrechile`
+  y buscar "original" + marca + "Chile".
+- **Nicho botas:** `#botaschile` `#botasmujerchile` `#calzadomujerchile`
+  `#botastexanaschile` `#zapatosmujerchile`.
 - **Búsqueda por palabras:** "envíos a todo Chile", "tienda", "ropa", "pedidos al DM".
 - **Mina de oro — "Cuentas sugeridas":** entra a una cuenta que cumple el
   filtro → toca la flecha junto a "Seguir" → IG te muestra 30 cuentas
@@ -93,6 +104,25 @@ Reglas:
 - Varía 2–3 palabras entre mensajes. Copiar y pegar idéntico = bloqueo.
 
 ### 5.1 Apertura — Instagram / TikTok (DM)
+
+**Versión PRINCIPAL — Método Mateo (mini-auditoría + llamada sin compromiso).**
+Antes de escribir, 2 minutos en su perfil: anota **2 cosas concretas** que
+podrían ser mejores (ej.: sin link de compra en la bio, precios solo por DM,
+tallas que se preguntan una y otra vez en los comentarios, sin packs, sin
+envíos claros).
+
+> Hola [nombre]! Estuve viendo [@cuenta] y tienen muy buen producto, sobre
+> todo [producto concreto] 🔥 Vi dos cosas que te podrían estar haciendo
+> perder ventas: [cosa 1] y [cosa 2]. Me dedico justo a eso, a armar tiendas
+> web para cuentas como la tuya para vender por cantidad a todo Chile.
+> ¿Te tinca una llamada de media hora? Me cuentas cómo funciona tu tienda,
+> qué tienes en mente, y vemos si te puedo ayudar. Sin ningún compromiso.
+
+**Ejemplos de [cosa 1] / [cosa 2] por nicho:**
+- *Marcas premium:* "los precios están solo por DM, y mucha gente no pregunta" ·
+  "no hay forma de comprar un conjunto completo o 3 poleras con descuento".
+- *Botas:* "en los comentarios te preguntan tallas todo el rato" ·
+  "el video vende, pero no hay dónde hacer clic para comprar".
 
 **Versión A (pregunta directa):**
 > Hola [nombre]! Vi [producto concreto] en tu cuenta, está muy bueno 🔥

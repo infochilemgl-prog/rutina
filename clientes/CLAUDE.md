@@ -23,6 +23,8 @@
    cliente. Así puedo comparar qué se hizo en cada momento.
 6. Si te falta un dato para hacer bien una tarea, pídelo puntual. No inventes
    datos del cliente ni cifras.
+7. El proceso de punta a punta (prospección → cierre → entrega delegada → cobro
+   final) está en `playbook/00-sistema-nexvore.md`. Todo cliente sigue ese mapa.
 
 ---
 
